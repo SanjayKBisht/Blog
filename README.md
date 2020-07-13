@@ -3,7 +3,7 @@ A Blog website that allows you to create new posts and review your posts.
 
 # Getting Started
 
-In the project folder, run `npm install` & `npm start`.  This will run the app in the development mode at http://localhost:3000.
+In the project folder, run `npm install` & `node app.js`.  This will run the app in the development mode at http://localhost:3000.
 
 
 # Running tests
